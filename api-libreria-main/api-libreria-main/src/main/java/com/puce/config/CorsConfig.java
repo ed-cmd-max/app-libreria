@@ -14,7 +14,7 @@ public class CorsConfig {
 
         CorsConfiguration config = new CorsConfiguration();
 
-        config.addAllowedOrigin("http://16.59.106.156");
+        config.addAllowedOrigin("http://107.20.83.229");
         config.addAllowedHeader("*");
         config.addAllowedMethod("*");
 
